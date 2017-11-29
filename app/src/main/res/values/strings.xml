@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github repository finder</string>
+    <string name="searching_is_in_progress">Searching...</string>
+    <string name="start_search">Search</string>
+</resources>
